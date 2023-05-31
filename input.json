@@ -1,0 +1,49 @@
+    [{"//" : "review"},
+    {
+        "item_id":"2",
+        "rating":"3",
+        "review_text":"worth it"
+    },
+
+        {"//" : "addtocart"},
+        {
+        "item_id":"1",
+        "quantity":"3"
+        },
+
+        {"//" : "add"},
+        {
+            "item_name":"Headphone",
+            "description":"A great headphone,with best sound quality",
+            "price":"1200",
+            "item_image":"url"
+        },
+
+        {"//" : "registration"},
+        {
+            "username":"hello",
+            "email":"hello@gmail.com",
+            "password":"123"
+        },
+
+        {"//" : "login"},
+        {
+            "email":"hello@gmail.com",
+            "password":"123"
+        },
+
+        {"//" : "review"},
+        {
+                "item_id":"2",
+                "rating":"3",
+                "review_text":"worth it"
+        },
+
+        {"//" : "checkout"},
+        {
+            "cvv_no": "222",
+             "card_no": "4111111111111111", 
+             "card_expiry_date": "12/12"
+        }
+
+    ]
